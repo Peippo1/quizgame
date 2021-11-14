@@ -1,3 +1,3 @@
 # quizgame
 
-## True/False quiz game mate using classes and oop for learning purposes.
+## True/False quiz game made using classes and oop for learning purposes.
